@@ -14,6 +14,10 @@ A data frame with 32 observations on 11 (numeric) variables.
 [,10]	gear	Number of forward gears
 [,11]	carb	Number of carburetors
 
+Three more columns have been added
+      carnames
+      state  State where the car is being manufactured
+      dateStart   Date when the car was launched into the market
 Task1
 1.1 How many rows and columns does this data have
 1.2 Which one of them are Categorical and Numerical values (eg. Gear is category, mgp - numeric)
